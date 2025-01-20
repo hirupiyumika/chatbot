@@ -20,8 +20,8 @@ This is a simple chatbot application built with Python that interacts with OpenA
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/hirupiyumika/chatbot.git
+   cd chatbot
    ```
 
 2. **Install dependencies:**
